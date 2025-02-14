@@ -13,7 +13,7 @@ Note that this branch contains samples for the latest Fabric release. For older 
 
 To use the Fabric samples, you need to download the Fabric Docker images and the Fabric CLI tools. First, make sure that you have installed all of the [Fabric prerequisites](https://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html). You can then follow the instructions to [Install the Fabric Samples, Binaries, and Docker Images](https://hyperledger-fabric.readthedocs.io/en/latest/install.html) in the Fabric documentation. In addition to downloading the Fabric images and tool binaries, the Fabric samples will also be cloned to your local machine.
 
-## Test network
+## Test networks
 
 The [Fabric test network](test-network) in the samples repository provides a Docker Compose based test network with two
 Organization peers and an ordering service node. You can use it on your local machine to run the samples listed below.
